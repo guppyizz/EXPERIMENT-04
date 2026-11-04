@@ -1,6 +1,6 @@
-//UPDESH ARORA
-//PRN - 24070123124
-//ENTC B-3
+//Antriksh Tripathi
+//PRN - 24070123019
+//ENTC A
 //EXPERIMENT 04
 //To study and implement C++ Bitwise Operators
 
